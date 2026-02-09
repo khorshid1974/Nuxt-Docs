@@ -3,6 +3,14 @@ import { defineNuxtConfig } from "nuxt/config";
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: ["nuxt-studio", "@nuxtjs/i18n"],
+  studio: {
+    repository: {
+      provider: 'github',
+      owner: 'khorshid1974',
+      repo: 'Nuxt-Docs',
+      branch: 'main' // The branch you want Studio to commit to
+    }
+  },
   i18n: {
     locales: [
       { code: 'en', name: 'English', iso: 'en-US', file: 'en.json' },
