@@ -1,27 +1,27 @@
 ---
 seo:
-  title: اكتب وثائق جميلة باستخدام Markdown
-  description: اشحن وثائق سريعة ومرنة ومحسنة لمحركات البحث بتصميم جميل جاهز للاستخدام. Docus يجمع أفضل ما في نظام Nuxt البيئي. مشغل بواسطة Nuxt UI.
+  title: Write beautiful docs with Markdown
+  description: Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. Docus brings together the best of the Nuxt ecosystem. Powered by Nuxt UI.
 ---
 
 ::u-page-hero
 #title
-اكتب وثائق جميلة جدا باستخدام الامور
+🇮🇶 النسخة العربية - نظام بولونيا
 
 #description
-اشحن وثائق سريعة ومرنة ومحسنة لمحركات البحث بتصميم جميل جاهز للاستخدام.
+**أنت تشاهد الصفحة الرئيسية العربية**
 
-Docus brings the best of the Nuxt ecosystem into one CLI.
+هذه الصفحة باللغة العربية. قم بتبديل اللغات لرؤية محتوى مختلف.
 
 #links
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: /ar/students/my-subjects
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  ابدأ الآن (زر عربي)
   :::
 
   :::u-button
@@ -32,10 +32,15 @@ Docus brings the best of the Nuxt ecosystem into one CLI.
   to: https://github.com/nuxt-content/docus
   variant: outline
   ---
+<<<<<<< HEAD
   Star on GitHub
   :::
 ::
 
 ::u-page-section
 #title
+=======
+  نجمة على GitHub
+  :::
+>>>>>>> 8ad4899 (new update hoe is working)
 ::

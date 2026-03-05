@@ -1,0 +1,49 @@
+{
+    "common": {
+        "or": "أو",
+        "error": {
+            "title": "الصفحة غير موجودة",
+            "description": "عذراً، لم يتم العثور على هذه الصفحة."
+        }
+    },
+    "docs": {
+        "copy": {
+            "page": "نسخ الصفحة",
+            "link": "نسخ الرابط",
+            "view": "عرض كـ Markdown",
+            "gpt": "فتح في ChatGPT",
+            "claude": "فتح في Claude"
+        },
+        "links": "المجتمع",
+        "toc": "في هذه الصفحة",
+        "report": "إبلاغ عن مشكلة",
+        "edit": "تعديل هذه الصفحة"
+    },
+    "assistant": {
+        "title": "اسأل الذكاء الاصطناعي",
+        "placeholder": "اطرح سؤالاً...",
+        "tooltip": "اسأل الذكاء الاصطناعي",
+        "tryAsking": "حاول أن تسأل",
+        "askAnything": "اسأل أي شيء...",
+        "clearChat": "مسح المحادثة",
+        "close": "إغلاق",
+        "expand": "توسيع",
+        "collapse": "طي",
+        "thinking": "جاري التفكير...",
+        "askMeAnything": "اسألني أي شيء",
+        "askMeAnythingDescription": "احصل على مساعدة في البحث عن الصفحات وفهم المفاهيم.",
+        "faq": "الأسئلة الشائعة",
+        "chatCleared": "تم مسح المحادثة",
+        "lineBreak": "فاصل أسطر",
+        "explainWithAi": "شرح بالذكاء الاصطناعي",
+        "toolListPages": "قائمة الصفحات",
+        "toolReadPage": "قراءة الصفحة",
+        "loading": {
+            "searching": "جاري البحث في المستندات",
+            "reading": "جاري قراءة المستندات",
+            "analyzing": "تحليل المحتوى",
+            "finding": "إيجاد الإجابة",
+            "finished": "المصادر المستخدمة"
+        }
+    }
+}

@@ -1,27 +1,27 @@
 ---
 seo:
-  title: بەڵگەنامەی جوان بنووسە بە Markdown
-  description: بەڵگەنامەی خێرا، نەرم، و باشکراو بۆ SEO بە دیزاینێکی جوانەوە دابین بکە. Docus باشترینەکانی سیستەمی Nuxt کۆدەکاتەوە. بە هێزی Nuxt UI.
+  title: وەشانی کوردی - سیستەمی بۆلۆنیا
+  description: وەشانی کوردی - سیستەمی بۆلۆنیا
 ---
 
 ::u-page-hero
 #title
-بەڵگەنامەی ببجوان بنووسە بە
+🇮🇶 وەشانی کوردی - سیستەمی بۆلۆنیا
 
 #description
-بەڵگەنامەی خێرا، نەرم، و باشکراو بۆ SEO بە دیزاینێکی جوانەوە دابین بکە.
+**تۆ پەڕەی سەرەکی کوردی دەبینیت**
 
-Docus brings the best of the Nuxt ecosystem into one CLI.
+ئەم پەڕەیە بە زمانی کوردییە. زمانەکان بگۆڕە بۆ بینینی ناوەڕۆکی جیاواز.
 
 #links
   :::u-button
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: /ku/students/my-subjects
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  دەست پێبکە ئێستا (دوگمەی کوردی)
   :::
 
   :::u-button
@@ -32,10 +32,15 @@ Docus brings the best of the Nuxt ecosystem into one CLI.
   to: https://github.com/nuxt-content/docus
   variant: outline
   ---
+<<<<<<< HEAD
   Star on GitHub
   :::
 ::
 
 ::u-page-section
 #title
+=======
+  ئەستێرە لە GitHub
+  :::
+>>>>>>> 8ad4899 (new update hoe is working)
 ::

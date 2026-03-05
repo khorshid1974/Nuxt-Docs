@@ -1,3 +1,4 @@
+
 import { defineNuxtConfig } from "nuxt/config";
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
@@ -20,11 +21,11 @@ export default defineNuxtConfig({
     lazy: true,
     langDir: 'locales',
     defaultLocale: 'en',
-    strategy: 'prefix_except_default',
-    detectBrowserLanguage: {
-      useCookie: true,
-      cookieKey: 'i18n_redirected',
-      redirectOn: 'root',
-    }
+    strategy: 'prefix',
+    detectBrowserLanguage: false,
+  },
+  content: {
+    locales: ['en', 'ar', 'ku'],
+    defaultLocale: 'en'
   }
 })

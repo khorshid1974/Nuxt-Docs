@@ -1,0 +1,49 @@
+{
+    "common": {
+        "or": "or",
+        "error": {
+            "title": "Page Not Found",
+            "description": "Sorry, this page could not be found."
+        }
+    },
+    "docs": {
+        "copy": {
+            "page": "Copy page",
+            "link": "Copy link",
+            "view": "View as Markdown",
+            "gpt": "Open in ChatGPT",
+            "claude": "Open in Claude"
+        },
+        "links": "Community",
+        "toc": "On this page",
+        "report": "Report an issue",
+        "edit": "Edit this page"
+    },
+    "assistant": {
+        "title": "Ask AI",
+        "placeholder": "Ask a question...",
+        "tooltip": "Ask AI",
+        "tryAsking": "Try asking",
+        "askAnything": "Ask anything...",
+        "clearChat": "Clear chat",
+        "close": "Close",
+        "expand": "Expand",
+        "collapse": "Collapse",
+        "thinking": "Thinking...",
+        "askMeAnything": "Ask me anything",
+        "askMeAnythingDescription": "Get help finding pages, understanding concepts, and finding answers.",
+        "faq": "FAQ",
+        "chatCleared": "Chat cleared",
+        "lineBreak": "Line break",
+        "explainWithAi": "Explain with AI",
+        "toolListPages": "List pages",
+        "toolReadPage": "Read page",
+        "loading": {
+            "searching": "Searching documentation",
+            "reading": "Reading documents",
+            "analyzing": "Analyzing content",
+            "finding": "Finding answer",
+            "finished": "Sources used"
+        }
+    }
+}
